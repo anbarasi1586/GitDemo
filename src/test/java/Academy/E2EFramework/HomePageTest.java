@@ -90,6 +90,7 @@ public class HomePageTest extends Base {
 	public void tearDown() {
 		
 		driver.close();
+		System.out.println("Git Edit file push Success");
 		
 	}
 	
