@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 13.513 s <<< FAILURE! - in TestSuite
+basePageNavigation(Academy.E2EFramework.HomePageTest)  Time elapsed: 6.272 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...fg...> but was:<......>
+	at Academy.E2EFramework.HomePageTest.basePageNavigation(HomePageTest.java:55)
+
+basePageNavigation(Academy.E2EFramework.HomePageTest)  Time elapsed: 0.643 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...fg...> but was:<......>
+	at Academy.E2EFramework.HomePageTest.basePageNavigation(HomePageTest.java:55)
+
